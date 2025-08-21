@@ -46,8 +46,8 @@ function Todolist() {
         <thead>
           <tr>
             <th>ID</th>
-            <th>Tên công việc</th>
-            <th>Người được giao</th>
+            <th>Tên  việc</th>
+            <th>Ng được giao</th>
             <th>Trạng thái</th>
             <th>Ngày tạo</th>
           </tr>
